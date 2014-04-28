@@ -19,3 +19,13 @@ header{
 	letter-spacing: 1px;
 	color: #E8DED5;
 }
+body{
+	background-color: #EFFFEF;
+}
+footer{
+	border: 1px;
+	background-color: #075702;
+	color: black;
+	clear: left;
+	color: #E8DED5;
+}
