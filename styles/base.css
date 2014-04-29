@@ -40,3 +40,15 @@ footer{
 #slideshow{
 	margin-top: 10px;
 }
+dt{
+	font-weight: bold !important;
+	font-size: 150%;
+}
+dd{
+	font-size: 100%;
+	line-height: 20px;
+}
+.content{
+	-webkit-columns:200px 2; /* Safari and Chrome */
+	-moz-columns:200px 2; /* Firefox */
+}
