@@ -32,7 +32,11 @@ footer{
 	color: black;
 	clear: left;
 	color: #E8DED5;
+	margin-top: 25px;
 }
 #about{
 	line-height: 25px;
+}
+#slideshow{
+	margin-top: 10px;
 }
