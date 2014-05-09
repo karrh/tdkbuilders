@@ -49,6 +49,9 @@ dd{
 	font-size: 100%;
 	line-height: 20px;
 }
+dt{
+	font-weight: bold;
+}
 .content{
 	-webkit-columns: 200px 2; /* Safari and Chrome */
 	-moz-columns: 200px 2; /* Firefox */
