@@ -13,7 +13,7 @@ header{
 	display: inline;
 }
 #nav_bar a{
-	padding: 1em 1em;
+	padding: 1em 2em;
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
@@ -35,19 +35,22 @@ footer{
 	color: #E8DED5;
 	margin-top: 25px;
 }
-#about{
-	line-height: 25px;
-}
 #slideshow{
 	margin-top: 10px;
 }
 .list{
 	font-weight: bold !important;
 	font-size: 120%;
+	opacity: 50%;
 }
 dd{
 	font-size: 100%;
 	line-height: 20px;
+}
+dt{
+	font-size: 110%;
+	font-weight: lighter;
+	
 }
 .content{
 	-webkit-columns: 200px 2; /* Safari and Chrome */
@@ -71,3 +74,18 @@ th, td{
 th.left, td.left{
 	text-align: left;
 }
+<<<<<<< HEAD
+=======
+#about{
+	margin-top: 50px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+>>>>>>> 3d41f91d6d44ddd1b80df68aaaef91d912139430
