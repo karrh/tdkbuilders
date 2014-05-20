@@ -1,3 +1,6 @@
+html{
+	background: url("../images/banner.jpg") no-repeat fixed center;
+}
 header{
 	border-bottom: 3px solid #022801;
 	border-top: 3px solid #022801;
@@ -25,7 +28,7 @@ a:hover{
 }
 body{
 	font-family: Arial, Helvetica, sans-serif;
-	background-color: #EFFFEF;
+	background-color:#EFFFEE;
 }
 footer{
 	border: 1px;
