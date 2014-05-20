@@ -1,14 +1,18 @@
 html{
-	background: url("../images/banner.jpg") no-repeat fixed center;
+	background: url("../images/woodback.jpg") no-repeat fixed center;
 }
 header{
 	border-bottom: 3px solid #022801;
 	border-top: 3px solid #022801;
+	padding-bottom: 3px;
 }
-
+nav{
+	width: 70%;
+	position: absolute; top: -5px; right: 8px; z-index: 1;
+}
 #nav_bar ul{
 	list-style: none;
-	padding: 1em 0;
+	padding: 2em 0;
 	background-color: #555C4A;
 	text-align: center;
 }
@@ -16,7 +20,7 @@ header{
 	display: inline;
 }
 #nav_bar a{
-	padding: 1em 2em;
+	padding: 2em 2em;
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
@@ -28,7 +32,7 @@ a:hover{
 }
 body{
 	font-family: Arial, Helvetica, sans-serif;
-	background-color:#EFFFEE;
+	background-color: #FAFAD2;
 }
 footer{
 	border: 1px;
@@ -53,7 +57,6 @@ dd{
 dt{
 	font-size: 110%;
 	font-weight: lighter;
-	
 }
 .content{
 	-webkit-columns: 200px 2; /* Safari and Chrome */
@@ -61,13 +64,18 @@ dt{
 }
 #testimonial{
 	text-align: justify;
+	padding-left: 6px;
+	padding-right: 6px;
 }
 .names{
 	text-align:right;
+	font-size: 106%;
 }
 table{
 	border: 1px solid black;
 	border-collapse: collapse;
+	margin-left: 30%;
+	margin-right: 30%;
 }
 th, td{
 	border:1px solid black;
