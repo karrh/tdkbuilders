@@ -7,7 +7,7 @@ header{
 	padding-bottom: 3px;
 }
 nav{
-	width: 70%;
+	width: 700px;
 	position: absolute; top: -5px; right: 8px; z-index: 1;
 }
 #nav_bar ul{
@@ -58,7 +58,7 @@ dd{
 	line-height: 20px;
 }
 dt{
-	font-size: 110%;
+	font-size: 80%;
 	font-weight: lighter;
 }
 #testimonial{
@@ -88,11 +88,20 @@ th, td{
 th.left, td.left{
 	text-align: left;
 }
-#about{
+.about{
 	margin-top: 50px;
-	text-align:center;
+	padding-left: 6px;
+	padding-right: 6px;
+	text-align: center;
+	line-height: 20px;
+	margin-bottom: 1px;
 }
-
+.about2{
+	margin-top: 2px;
+	padding-left: 6px;
+	padding-right: 6px;
+	text-align: center;
+}
 
 
 
