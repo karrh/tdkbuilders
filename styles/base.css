@@ -88,6 +88,7 @@ dt{
 	padding-right: 6px;
 	text-align: center;
 }
+<<<<<<< HEAD
 h3{
 	padding-left: 10px;
 }
@@ -99,4 +100,99 @@ columns:300px 3;
 h2{
 	margin-bottom: -4px;
 }
+=======
+#container{
+	position: relative;
+	width: 770px;
+	height: 396px;
+	margin 20px auto 0 auto;
+	border: 1px solid #000000;
+}
+#container ul{
+	padding:0;
+	margin:0;
+	list-style-type:none;
+}
+#container a.gallery span{
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	top: 5px;
+	left: 5px;
+	overflow: hidden;
+	background: #075702;
+}
+#container a.slidea { 
+	    background:url(../images/001.jpg);
+	    height:93px; 
+	    width:60px; 
+	    } 
+	#container a.slideb { 
+	    background:url(../images/p2_t.jpg); 
+	    height:93px; 
+	    width:60px; 
+	    } 
+	#container a.slidec { 
+	    background:url(../images/p3_t.jpg); 
+	    height:93px; 
+	    width:60px; 
+	    } 
+	#container a.slided { 
+	    background:url(../images/p4_t.jpg); 
+	    height:60px; 
+	    width:93px; 
+	    } 
+	* html #container a.slided { 
+	    width:91px; 
+	    w\idth:93px; 
+	    } 
+	#container a.slidee { 
+	    background:url(../images/p5_t.jpg); 
+	    height:60px; 
+	    width:93px; 
+	    } 
+	#container a.slidef { 
+	    background:url(../images/p6_t.jpg); 
+	    height:60px; 
+	    width:93px;
+  	    } 
+	* html #container a.slidef { 
+	    width:91px; 
+	    w\idth:93px; 
+	    } 
+	#container a.slideg { 
+	    background:url(../images/p7_t.jpg); 
+	    height:60px; 
+	    width:93px; 
+	    } 
+	#container a.slideh { 
+	    background:url(../images/p8_t.jpg); 
+	    height:93px; 
+	    width:60px; 
+	    } 
+	#container a.slidei { 
+	    background:url(../images/p9_t.jpg); 
+	    height:93px; 
+	    width:60px; 
+	    } 
+	#container a.slidej { 
+	    background:url(../images/p10_t.jpg); 
+	    height:93px; 
+	    width:60px; 
+	    } 
+	#container a.slidek { 
+	    background:url(../images/p11_t.jpg); 
+	    height:60px; 
+	    width:93px; 
+	    } 
+	* html #container a.slidek { 
+	    width:91px; 
+	    w\idth:93px; 
+	    } 
+	#container a.slidel { 
+	    background:url(../images/p12_t.jpg); 
+	    height:60px; 
+	    width:93px; 
+	    } 
+>>>>>>> 84344e9f14a06d6b92ce72ed66d10a6d2ed129d5
 
