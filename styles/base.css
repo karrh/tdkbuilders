@@ -77,8 +77,7 @@ dt{
 table{
 	border: 1px solid black;
 	border-collapse: collapse;
-	margin-left: 30%;
-	margin-right: 30%;
+	margin-left: 2%;
 }
 th, td{
 	border:1px solid black;
