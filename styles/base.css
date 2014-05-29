@@ -84,7 +84,7 @@ dt{
 	-webkit-columns:100px 2; /* Safari and Chrome */
 	-moz-columns:100px 2; /* Firefox */
 }
-<<<<<<< HEAD
+
 .about2{
 	margin-top: 2px;
 	padding-left: 6px;
@@ -92,8 +92,7 @@ dt{
 	text-align: center;
 }
 
-=======
->>>>>>> 73cdab0182611a7bd733a8fd6e194e7f2cfca3c9
+
 h3{
 	padding-left: 10px;
 }
@@ -113,14 +112,12 @@ h3{
 h2{
 	margin-bottom: -4px;
 }
-<<<<<<< HEAD
 
-=======
 .columns{
 	float:left;
 	padding-left: 400px;
 }
->>>>>>> 73cdab0182611a7bd733a8fd6e194e7f2cfca3c9
+
 #container{
 	position: relative;
 	width: 770px;
@@ -236,7 +233,7 @@ h2{
 	    height:93px; 
 	    width:60px; 
 	    } 
-<<<<<<< HEAD
+
 #container a.gallery:hover {
 	border: 1px solid #555C4A;
 }
@@ -262,7 +259,5 @@ h2{
 	float: left;
 	margin-right: 5px;
 }
-=======
->>>>>>> 73cdab0182611a7bd733a8fd6e194e7f2cfca3c9
 
 
