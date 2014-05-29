@@ -12,7 +12,7 @@ nav{
 }
 #nav_bar ul{
 	list-style: none;
-	padding: 2em 0;
+	padding: 2.1em 0;
 	background-color: #555C4A;
 	text-align: center;
 }
@@ -75,13 +75,16 @@ dt{
 	font-size: 106%;
 }
 .about{
+	padding-left: 50px;
+	padding-right: 90px;
 	margin-top: 50px;
-	padding-left: 6px;
-	padding-right: 6px;
-	text-align: center;
-	line-height: 20px;
+	line-height: 30px;
 	margin-bottom: 1px;
+	columns:100px 2;
+	-webkit-columns:100px 2; /* Safari and Chrome */
+	-moz-columns:100px 2; /* Firefox */
 }
+<<<<<<< HEAD
 .about2{
 	margin-top: 2px;
 	padding-left: 6px;
@@ -89,18 +92,35 @@ dt{
 	text-align: center;
 }
 
+=======
+>>>>>>> 73cdab0182611a7bd733a8fd6e194e7f2cfca3c9
 h3{
 	padding-left: 10px;
 }
 .content{
-columns:300px 3;
--webkit-columns:300px 3; /* Safari and Chrome */
--moz-columns:300px 3; /* Firefox */
+	float:left;
+	padding-right: 6%;
 } 
+.up{
+	float: right;
+	padding-right: 8%;
+}
+.pic{
+	margin-right: auto;
+	padding-left: 3%;
+	width: 40%;
+}
 h2{
 	margin-bottom: -4px;
 }
+<<<<<<< HEAD
 
+=======
+.columns{
+	float:left;
+	padding-left: 400px;
+}
+>>>>>>> 73cdab0182611a7bd733a8fd6e194e7f2cfca3c9
 #container{
 	position: relative;
 	width: 770px;
@@ -216,6 +236,7 @@ h2{
 	    height:93px; 
 	    width:60px; 
 	    } 
+<<<<<<< HEAD
 #container a.gallery:hover {
 	border: 1px solid #555C4A;
 }
@@ -241,5 +262,7 @@ h2{
 	float: left;
 	margin-right: 5px;
 }
+=======
+>>>>>>> 73cdab0182611a7bd733a8fd6e194e7f2cfca3c9
 
 
