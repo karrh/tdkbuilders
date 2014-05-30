@@ -86,13 +86,9 @@ dt{
 }
 
 .about2{
-	margin-top: 2px;
-	padding-left: 6px;
-	padding-right: 6px;
+	padding-top: 20px;
 	text-align: center;
 }
-
-
 h3{
 	padding-left: 10px;
 }
@@ -119,6 +115,7 @@ h2{
 	-moz-columns:100px 2; /* Firefox */
 	padding-left: 20px;
 	padding-right: 20px;
+	padding-top: 20px;
 }
 
 #container{
